@@ -1,0 +1,7 @@
+файлы human.txt в ветках master и demo не отличаются, рисунки человека в них идентичны
+в файле README в ветке master есть фраза with nice buttons on his jacket (buttons branch), а в ветке demo ее нет
+в ветке demo существуют коммиты: смержить boots в release, смержить buttons в demo
+в ветке master существуют коммиты: смержить buttons и boots в boots_buttons, смержить boots_buttons и hat в master
+
+в удаленном репозитории есть 8 коммитов: fix readme, README added, init, heat added, boots, 
+dots, Merge branch 'buttons' into demo, Merge branch 'boots' into release
